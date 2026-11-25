@@ -1,0 +1,21 @@
+# the-cpp-20-master-class
+
+[source code]
+
+
+
+```
+0191931e65184524cfc61bb9517ddb26409e8bc4ad8c90575bba3cf2570a84ed  videos/00-classes-object-const-reencoded.mp4
+4f89ac1ea3ab0448ea5d7e4bdfa0dcb603cb5cf18c7ad6b7fbce42671fec88be  videos/00-classes-objects-const-reencoded.mp4
+4b3005793869b7672237ee9378082444bdd3903697d278fc37a656fc6c09ac5c  videos/01-constructor-and-initialization-reencoded.mp4
+ce265a1e07a2a1db6a44352c71f6e687f191324771b0397a3de50063f5485b68  videos/02-friends-reencoded.mp4
+83027c2bc2873cf3f817e72eb91d3ec7fc0c827bf0ffe1835d2508aa606b7710  videos/03-static-members-reencoded.mp4
+4ea682d332380b1401dd24aa31681f87dd40ab1715f4d527c0585b82796439d0  videos/04-namespaces-reencoded.mp4
+bf29461c5976ce9ea79b9b461000cfde8fbc6d429984c0d514b1fd3189ffe9a2  videos/05-smart-ptr-reencoded.mp4
+4fe8c13d1140bf6b2f009a7e7faee0e14282867c5f69a24d6310747d25321354  videos/06-operator-overloading-reencoded.mp4
+c022b6b934fa1b1f72e823b18a0a79369391a1c864c40427ef9d964b2282fb06  videos/07-logical-op+cpp20-3way-comparison-reencoded.mp4
+f55138f05b0ba04a2a69972f8d2bd44a2012d291aaebe6b42dfd5f4471727638  videos/08-inheritance-reencoded.mp4
+7779c2b41621f5940c6dbf0b2aad5ec46c04b2fd268feada2a5e825b21aa5752  videos/09-polymorphism-reencoded.mp4
+```
+
+
